@@ -1,0 +1,34 @@
+.green{
+    width: 400px;
+    background-color: green;
+    height: 200px;
+    position: relative;
+
+}
+.red{
+    width: 150px;
+    height: 150p;
+    border-radius: 100px;
+    background-color: red;
+    margin-top: 250px;
+
+}
+.div1{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.div2{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+.div3{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.parent{
+    display: flex;
+    justify-content: flex-start;
+}
